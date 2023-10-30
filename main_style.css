@@ -272,7 +272,7 @@ h3{
 .ctn{
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0,0,0,0.10),rgba(0,0,0,0.10)), url(../image/.bt.png);
+    background-image: linear-gradient(rgba(0,0,0,0.10),rgba(0,0,0,0.10)), url("bt.png");
     background-position: center;
     background-size: cover;
     border-radius: 20px;
@@ -288,7 +288,7 @@ h3{
 .ctn:hover{
     margin: 100px auto;
     width: 80%;
-    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(../image/bt.png);
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(bt.png);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
